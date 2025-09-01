@@ -10,4 +10,4 @@ Check product expiry status (expired, near expiry, or valid).
 
 Display full inventory list.
 
-This project is beginner-friendly and demonstrates basic Python concepts like functions, lists, dictionaries, error handling, and date handling.  
+This project demonstrates basic Python concepts like functions, lists, dictionaries, error handling, and date handling.  
